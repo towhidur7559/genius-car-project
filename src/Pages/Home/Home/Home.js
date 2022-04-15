@@ -8,7 +8,6 @@ import Services from '../Services/Services';
 const Home = () => {
     return (
         <>           
-            <Header></Header>
             <Banner></Banner>
             <Services></Services>
             <Experts></Experts>
