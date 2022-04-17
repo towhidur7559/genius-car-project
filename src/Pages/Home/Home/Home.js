@@ -1,4 +1,5 @@
 import React from 'react';
+import SocialLogIn from '../../Login/SocialLogIn/SocialLogIn';
 import Footer from '../../Shared/Footer/Footer';
 import Header from '../../Shared/Header/Header';
 import Banner from '../Banner/Banner';
